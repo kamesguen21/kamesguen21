@@ -17,4 +17,4 @@
 - 📫 How to reach me 
 email : - kames05@outlook.com
         - medkhamesguen@gmail.com
-linkedIn : [https://www.linkedin.com/in/mohamed-khames-guen-8b061b161](https://www.linkedin.com/in/med-khames-guen/)
+linkedIn : [linkedin.com/in/mohamed-khames-guen](https://www.linkedin.com/in/med-khames-guen/)
