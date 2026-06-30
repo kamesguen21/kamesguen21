@@ -1,20 +1,65 @@
-- 👋 Hi, I’m @kamesguen21
-- 👀 I’m interested in everything related to software development, i'm a full-stack web developer primarly working with spring boot, angular.
-* i've also worked on :
-  * Magento 2
-  * ionic
-  * android
-  * knockoutJs
-  * jquery
-  * Flowable Bpmn
-  * Asp.net core
-  
+# Hi there 👋 I'm Mohamed Khames Guen
 
-* i'm planing on learning react, micronaut.  
+🚀 Senior Software Engineer specializing in backend systems, cloud-native applications, and full-stack development.
 
-- 🌱 I’m currently learning react native.
-- 💞️ I’m looking to collaborate on cool stuff.
-- 📫 How to reach me 
-email : - kames05@outlook.com
-        - medkhamesguen@gmail.com
-linkedIn : [linkedin.com/in/mohamed-khames-guen](https://www.linkedin.com/in/med-khames-guen/)
+---
+
+## 💼 About Me
+
+Software engineer with experience since 2019, focused on building scalable web applications and enterprise-grade systems.
+
+I specialize in:
+- Java & Spring Boot
+- Microservices architecture
+- REST APIs & distributed systems
+- Cloud-native development on Azure
+- Docker & Kubernetes
+- Full-stack development with Angular
+
+I enjoy designing clean architectures and building reliable, scalable backend systems.
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+- Java, Spring Boot, Quarkus, Spring Security, Spring Data JPA
+- Microservices, REST APIs
+**Frontend**
+- Angular
+- React
+- JavaScript / TypeScript
+
+**Cloud & DevOps**
+- Microsoft Azure (App Services, Azure Functions, AKS, Azure DevOps)
+- Docker
+- Kubernetes
+- CI/CD pipelines
+
+**Other Experience**
+- Magento 2 (e-commerce systems)
+- Flowable BPM (workflow engines)
+- Android development
+
+---
+
+## 📈 Currently Learning
+- Flutter
+- Modern system design practices
+- Advanced cloud architecture on Azure
+
+---
+
+## 🤝 Open to Collaborate On
+- Backend-heavy systems
+- SaaS platforms
+- Distributed systems
+- API-first products
+- Open-source tools
+
+---
+
+## 📫 Contact
+
+- Email: kames05@outlook.com | medkhamesguen@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/med-khamesguen/
